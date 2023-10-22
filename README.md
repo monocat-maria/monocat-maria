@@ -1,4 +1,4 @@
-# Maria | MONOCAT | Systems Development Student
+# MONOCAT | Systems Development Student
 
   Hi, </br> I'm Maria and I work on my independent projects while studying on my systems development course. 
   ## Monocat
