@@ -1,7 +1,7 @@
-# MONOCAT | Systems Development Student
+# Maria | Systems Development Student
 
   Hi, </br> I'm Maria and I work on my independent projects while studying on my systems development course. 
-  ## Monocat
+  ## MONOCAT | Game
    In the future, I want to work as a game designer to create games for my own brand: Monocat
    
 ![1b933485a36abd8284c92e2f814d469be4ab53b4_hq](https://github.com/monocat-maria/monocat-maria/assets/129681589/15b11b37-b0d1-4020-bf16-b3b0ef210332)
